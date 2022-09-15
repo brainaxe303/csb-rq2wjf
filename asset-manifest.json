@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://brainaxe303.github.io/csb-rq2wjf/static/js/main.953251ab.chunk.js",
+    "main.js.map": "https://brainaxe303.github.io/csb-rq2wjf/static/js/main.953251ab.chunk.js.map",
+    "runtime-main.js": "https://brainaxe303.github.io/csb-rq2wjf/static/js/runtime-main.6ddaee1b.js",
+    "runtime-main.js.map": "https://brainaxe303.github.io/csb-rq2wjf/static/js/runtime-main.6ddaee1b.js.map",
+    "static/js/2.d76898d8.chunk.js": "https://brainaxe303.github.io/csb-rq2wjf/static/js/2.d76898d8.chunk.js",
+    "static/js/2.d76898d8.chunk.js.map": "https://brainaxe303.github.io/csb-rq2wjf/static/js/2.d76898d8.chunk.js.map",
+    "index.html": "https://brainaxe303.github.io/csb-rq2wjf/index.html",
+    "precache-manifest.37646d71ac0580f29b5343ecc27a32b4.js": "https://brainaxe303.github.io/csb-rq2wjf/precache-manifest.37646d71ac0580f29b5343ecc27a32b4.js",
+    "service-worker.js": "https://brainaxe303.github.io/csb-rq2wjf/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ddaee1b.js",
+    "static/js/2.d76898d8.chunk.js",
+    "static/js/main.953251ab.chunk.js"
+  ]
+}
